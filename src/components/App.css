@@ -1,0 +1,51 @@
+.mov {
+  backdrop-filter: blur(9px);
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+li.line{
+  display: inline-block;
+  padding: 20px;
+}
+
+
+li.starListItem{
+display: inline-block;
+backdrop-filter: blur(100px);
+padding: 15px;
+}
+
+.yellowStar {
+  fill: yellow;;
+}
+
+* {
+	font-family: Arial, Helvetica, sans-serif;
+	box-sizing: border-box;
+}
+
+.color{
+  color: aliceblue;
+}
+
+.bottom{
+margin-bottom:5px;
+}
+
+.left{
+background-color: rgb(242, 59, 59);
+justify-content: center;
+display:inline-table;
+align-items: center;
+border-radius: 13px;
+position:static;
+}
+
+.right{
+justify-content: space-around;
+ margin-left: 35%;
+}
+
+
+
+
